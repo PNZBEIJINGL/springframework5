@@ -9,7 +9,7 @@
 
     <!-- this is a template message that we can pre-load with default state -->
     <bean id="templateMessage" class="org.springframework.mail.SimpleMailMessage">
-        <property name="from" value="customerservice@mycompany.example"/>
+        <property name="from" value="beijing_l@sohu.com"/>
         <property name="subject" value="Your order"/>
     </bean>
 
