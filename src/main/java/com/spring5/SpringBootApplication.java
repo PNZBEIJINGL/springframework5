@@ -17,6 +17,6 @@ public class SpringBootApplication {
 
     @RequestMapping("/ping")
     public String index() {
-        return "alive";
+        return "connected";
     }
 }
